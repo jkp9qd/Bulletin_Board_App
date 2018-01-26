@@ -1,0 +1,30 @@
+body{
+	background-image: url('./bulletin_board.jpg');
+}
+
+h1 {
+	font-family: 'Harabara Bold', Times New Roman, sans-serif;
+	color: yellow;
+	font-size: 75px;
+	text-align: left;
+	padding-left: 40px;
+	margin-top: 35px;
+}
+
+h3 {
+	font-family: 'Harabara Bold', Courier, sans-serif;
+	color: #7FFF00;
+}
+
+.well{
+	background-color: #FFFF00;
+	border-color: black;
+}
+
+#form-submit{
+	background-color: #FF0000;
+	border-color: white;
+}
+
+
+
